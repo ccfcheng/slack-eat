@@ -1,2 +1,4 @@
 # Dependency directory
 node_modules
+# Local storage of API keys
+yelp.js
