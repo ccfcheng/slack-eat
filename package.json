@@ -4,7 +4,7 @@
   "description": "A test app to grab stuff from APIs",
   "main": "",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "node server.js",
     "test": ""
   },
   "author": "Cliff Saporta Cheng",
